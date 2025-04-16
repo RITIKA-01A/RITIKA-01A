@@ -61,7 +61,6 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITIKA-01A&theme=white&&hide_border=true" width='48%' /> 
     <img src="https://github-readme-stats-mauve-ten.vercel.app/api?username=RITIKA-01A&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width='48%' />
 </p>
 
