@@ -55,7 +55,7 @@
 ## 🏆 GitHub Trophies:
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Anand21J-V">
+    <img src="https://github-profile-trophy.vercel.app/?username=RITIKA-01A">
 </p>
 
 ## 📊 GitHub Stats:
