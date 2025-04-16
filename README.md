@@ -52,6 +52,12 @@
 
 ---
 
+## 🏆 GitHub Trophies:
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Anand21J-V">
+</p>
+
 <h3>🏆 Achievements</h3>
 <ul>
   <li>🎖️ Finalist - <b>Smart India Hackathon 2023</b>  
