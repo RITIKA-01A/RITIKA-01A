@@ -46,15 +46,15 @@ I’m especially passionate about <b>Generative AI</b> — building smart, real-
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/RITIKA-01A/AI-Lawyer-RAG-Chatbot">⚖️ AI Lawyer Chatbot</a></td>
+      <td><a href="https://github.com/RITIKA-01A/lawer_chatbot_rag.git">⚖️ AI Lawyer Chatbot</a></td>
       <td>Legal assistant chatbot using RAG architecture with Hugging Face embeddings & Groq’s DeepSeek-LLaMA model.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RITIKA-01A/AI-Doctor-Voice-Vision">🩺 AI Doctor (Voice & Vision)</a></td>
+      <td><a href="https://github.com/RITIKA-01A/ai_doctor_with_voice_vision.git">🩺 AI Doctor (Voice & Vision)</a></td>
       <td>Multi-modal AI app with LLaVA for image diagnosis and Whisper + Groq LLMs for voice-based medical chat.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RITIKA-01A/Chat-with-SQL">🗃️ Chat with SQL</a></td>
+      <td><a href="https://github.com/RITIKA-01A/Chat_with_sql_db.git">🗃️ Chat with SQL</a></td>
       <td>LangChain-powered agent that converts natural language to SQL queries using user’s database credentials.</td>
     </tr>
     <tr>
@@ -62,7 +62,7 @@ I’m especially passionate about <b>Generative AI</b> — building smart, real-
       <td>Collaborative & Content-Based Recommender System using KNN & SVD. Built with Python, scikit-learn & Streamlit.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RITIKA-01A/Dog-Breed-Classifier">🐶 Dog Breed Classifier</a></td>
+      <td><a href="https://github.com/RITIKA-01A/content_based_movie_recommender.git">🐶 Dog Breed Classifier</a></td>
       <td>Deep learning model using CNNs & transfer learning to classify dog breeds, including face similarity detection.</td>
     </tr>
   </tbody>
