@@ -58,11 +58,11 @@ I’m especially passionate about <b>Generative AI</b> — building smart, real-
       <td>LangChain-powered agent that converts natural language to SQL queries using user’s database credentials.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RITIKA-01A/Movie-Recommender-System">🎬 Movie Recommender</a></td>
+      <td><a href="https://github.com/RITIKA-01A/content_based_movie_recommender.git">🎬 Movie Recommender</a></td>
       <td>Collaborative & Content-Based Recommender System using KNN & SVD. Built with Python, scikit-learn & Streamlit.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/RITIKA-01A/content_based_movie_recommender.git">🐶 Dog Breed Classifier</a></td>
+      <td><a href="https://github.com/RITIKA-01A/dog-breed-classifier.git">🐶 Dog Breed Classifier</a></td>
       <td>Deep learning model using CNNs & transfer learning to classify dog breeds, including face similarity detection.</td>
     </tr>
   </tbody>
